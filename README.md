@@ -1,1 +1,1 @@
-# test testuje se ino ni
+# test testuje se ino lub nie
